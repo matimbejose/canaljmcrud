@@ -1,0 +1,26 @@
+.main {
+    border: solid 2px black;
+    margin: 40px;
+}
+
+h2 {
+    color: #87BBE8;
+    margin: 5px;
+}
+
+.tabela {
+    text-align: left;
+}
+
+th, td {
+    padding: 10px;
+    margin: 10px;
+}
+
+.btn {
+    text-decoration: nome;
+    margin: 10px;
+    background-color: #6558F5;
+    color: white;
+    font-size: 15px;
+}
