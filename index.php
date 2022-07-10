@@ -1,8 +1,6 @@
 <?php
 include_once 'php_action/db_connect.php';
-
 ?>
-
 <!DOCTYPE html>
  <html>
    <head>
@@ -39,9 +37,10 @@ include_once 'php_action/db_connect.php';
                
                 </tbody>
            </table>
-           <button class="btn">
-               Adicionar Cliente 
-           </button>
+
+           <a href="insert.php">
+            <input  class="btn" type="button" value="Adiconar Cliente">
+           </a>
 
        </div>
    </body>  

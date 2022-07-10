@@ -24,3 +24,7 @@ th, td {
     color: white;
     font-size: 15px;
 }
+
+body {
+    margin: 10px;
+}
