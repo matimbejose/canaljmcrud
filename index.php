@@ -37,11 +37,9 @@ include_once 'php_action/db_connect.php';
                
                 </tbody>
            </table>
-
-           <a href="insert.php">
-            <input  class="btn" type="button" value="Adiconar Cliente">
+           <a href="InsertC.php">
+            <input class="btn" type="button" value="Cadastar Clientes">
            </a>
-
        </div>
    </body>  
  </html>
